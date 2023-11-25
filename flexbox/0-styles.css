@@ -175,6 +175,7 @@
     width: 960px;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
   }
   
   /* Grid
@@ -186,7 +187,7 @@
     list-style: none;
   }
 
-  [class='row'] {
+  .row {
     display: flex;
   }
   
